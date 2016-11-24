@@ -1,0 +1,12 @@
+{
+    "name": "bcoia/xaseco2-discord",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/bcoia/xaseco2-discord"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0"
+    }
+}
