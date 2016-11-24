@@ -4,6 +4,7 @@ $DISCORD_CONFIG = array();
 
 // Set your Discord bot token (from https://discordapp.com/developers/applications/me)
 $DISCORD_CONFIG['token'] = 'APP BOT USER TOKEN';
+$DISCORD_CONFIG['guild'] = 'GUILD (SERVER) NAME';
 $DISCORD_CONFIG['channel'] = 'CHANNEL NAME';
 
 // Set whether to show joins/leaves in Discord
